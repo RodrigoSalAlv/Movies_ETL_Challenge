@@ -3,4 +3,4 @@
 
 ## Project Overview
 ### Purpose
-was to clean the databases provided by different sources, in order to generate a single readable and clean database
+The purpose of this module and challenge was to clean the databases provided by different sources, in order to generate a single readable and clean database
